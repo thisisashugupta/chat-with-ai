@@ -1,4 +1,4 @@
-#chat-with-ai
+# chat-with-ai
 
 Vercel AI SDK
 The Vercel AI SDK is a library for building AI-powered streaming text and chat UIs.
